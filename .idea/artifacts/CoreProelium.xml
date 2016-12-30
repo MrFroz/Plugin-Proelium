@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CoreProelium">
+    <output-path>$USER_HOME$/Desktop/Plugins/Proelium/plugins</output-path>
+    <root id="archive" name="CoreProelium.jar">
+      <element id="module-output" name="Plugin Proelium" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
