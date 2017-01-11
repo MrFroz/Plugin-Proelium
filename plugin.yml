@@ -1,13 +1,12 @@
 name: CoreProelium
 main: fr.froz.proelium.Main
-version: 0.1
+version: 0.4
 description: Zbeub
 author: MrFroz
 commands:
   warn:
     description: Avertissement.
     usage: /warn
-    permission: proelium.warm
   help:
     description: help.
   plugins:
@@ -15,7 +14,11 @@ commands:
   pl:
     description: pl.  
   menu:
-    description: menu.    
+    description: menu.
+  pub:
+    description: pub
+  staff:
+    description: staff
     
 
     
